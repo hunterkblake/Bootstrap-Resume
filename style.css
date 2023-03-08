@@ -1,0 +1,76 @@
+/* css Resume */
+
+#header
+{
+	background-color:#FFF419;
+	Margin:10px;
+	border:ridge;
+	border-width: 20px;
+	border-color:#7B3F1A;
+	padding-top:30px;
+}
+
+.a1
+{
+	margin-left: 137px;
+	color:#637F2D;
+}
+
+h2
+{margin-left: 130px;
+font-weight: bolder;}
+
+a:link 
+{
+	font-weight: normal; 
+	text-decoration: none; 
+	text-decoration-color: #637F2D;
+	color: #637F2D;
+	float: left;
+}
+
+img
+{ 
+	margin-bottom:30px;
+ max-height: 30%;
+ max-width: 30%;
+}
+
+body 
+{
+    font: 1.0em "Times New Roman", "serif";
+    line-height: 1.88889;
+    background: #FFF419;
+    margin: 50px;
+    border-top: 24px double;
+		border-bottom: 24px double;
+		border-left: 24px double;
+		border-right: 24px double;
+		border-color: #7B3F1A;
+		text-align: center;
+		background-image: url(Krabby_patty.png);
+		background-blend-mode: soft-light;
+		color: #8C8529;
+}
+
+ul
+{
+	text-align: center;
+	list-style-type: none;
+}
+
+h3 {
+	font: 1.4em "Times New Roman", "serif";
+	letter-spacing: 1px; 
+	font-size: 24px;
+	color: #637F2D;
+	font-weight: bolder; 
+	text-align: center;
+}
+
+
+
+
+
+
+
